@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from ._imports import *
+from ._importable import disable_javascript_update
 from .utils import (
     get_user_symbols,
     install_extensions,
